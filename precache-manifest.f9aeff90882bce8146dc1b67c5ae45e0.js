@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7226b9bcccfcedbb6bc83c9c44b0956e",
+    "revision": "2fd702998101f6ee702f0afdee1a1043",
     "url": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/index.html"
   },
   {
-    "revision": "72931bc83661ad6f35d6",
+    "revision": "712296dfe6e4183929d4",
     "url": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "51c3c2d70899718cf75f",
-    "url": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/css/main.b1dc9d43.chunk.css"
+    "revision": "e976f023f8262e97e9c0",
+    "url": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "72931bc83661ad6f35d6",
-    "url": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/2.25e81f3a.chunk.js"
+    "revision": "712296dfe6e4183929d4",
+    "url": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/2.c70d1735.chunk.js"
   },
   {
-    "revision": "5727441246ffa49345a3574f984c2034",
-    "url": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/2.25e81f3a.chunk.js.LICENSE.txt"
+    "revision": "d466ab9648f013dea081956fc7c904f3",
+    "url": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/2.c70d1735.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51c3c2d70899718cf75f",
-    "url": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/main.4ee2eb08.chunk.js"
+    "revision": "e976f023f8262e97e9c0",
+    "url": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/main.47c05965.chunk.js"
   },
   {
     "revision": "530ed8cd6f0db7635b1f",
