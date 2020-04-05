@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/css/main.5db1380d.chunk.css",
-    "main.js": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/main.be3ee282.chunk.js",
-    "main.js.map": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/main.be3ee282.chunk.js.map",
+    "main.js": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/main.525c7420.chunk.js",
+    "main.js.map": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/main.525c7420.chunk.js.map",
     "runtime-main.js": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/runtime-main.9b523857.js",
     "runtime-main.js.map": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/runtime-main.9b523857.js.map",
     "static/css/2.57ddf7ad.chunk.css": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.881a0b97.chunk.js": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/2.881a0b97.chunk.js",
-    "static/js/2.881a0b97.chunk.js.map": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/2.881a0b97.chunk.js.map",
+    "static/js/2.be73cec5.chunk.js": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/2.be73cec5.chunk.js",
+    "static/js/2.be73cec5.chunk.js.map": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/2.be73cec5.chunk.js.map",
     "index.html": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/index.html",
-    "precache-manifest.b7d6b47039b8a87f280cb434ac6813d3.js": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/precache-manifest.b7d6b47039b8a87f280cb434ac6813d3.js",
+    "precache-manifest.58c1f5580a2ebefa3ff2c5b37c5cdd72.js": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/precache-manifest.58c1f5580a2ebefa3ff2c5b37c5cdd72.js",
     "service-worker.js": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/service-worker.js",
     "static/css/2.57ddf7ad.chunk.css.map": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/css/2.57ddf7ad.chunk.css.map",
     "static/css/main.5db1380d.chunk.css.map": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/css/main.5db1380d.chunk.css.map",
-    "static/js/2.881a0b97.chunk.js.LICENSE.txt": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/2.881a0b97.chunk.js.LICENSE.txt",
+    "static/js/2.be73cec5.chunk.js.LICENSE.txt": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/js/2.be73cec5.chunk.js.LICENSE.txt",
     "static/media/crio-logo-white.svg": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/media/crio-logo-white.c9536e04.svg",
     "static/media/crio-logo.svg": "/Crio-Launch-Feb-2020-pratik17100-iiitnr-edu/static/media/crio-logo.63be71d0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9b523857.js",
     "static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.881a0b97.chunk.js",
+    "static/js/2.be73cec5.chunk.js",
     "static/css/main.5db1380d.chunk.css",
-    "static/js/main.be3ee282.chunk.js"
+    "static/js/main.525c7420.chunk.js"
   ]
 }
